@@ -6,16 +6,16 @@
    <a href="https://github.com/JohnPetros">
       <img alt="Made by JohnPetros" src="https://img.shields.io/badge/made%20by-JohnPetros-blueviolet">
    </a>
-   <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/JohnPetros/rocketblog">
-   <a href="https://github.com/JohnPetros/rocketblog/commits/main">
-      <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/JohnPetros/rocketblog">
+   <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/JohnPetros/theme-switcher">
+   <a href="https://github.com/JohnPetros/theme-switcher/commits/main">
+      <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/JohnPetros/theme-switcher">
    </a>
   </a>
    </a>
-   <a href="https://github.com/JohnPetros/rocketblog/blob/main/LICENSE.md">
-      <img alt="GitHub License" src="https://img.shields.io/github/license/JohnPetros/rocketblog">
+   <a href="https://github.com/JohnPetros/theme-switcher/blob/main/LICENSE.md">
+      <img alt="GitHub License" src="https://img.shields.io/github/license/JohnPetros/theme-switcher">
    </a>
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/JohnPetros/rocketblog?style=social">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/JohnPetros/theme-switcher?style=social">
 </div>
 
 <br>
@@ -26,7 +26,7 @@ Página estática com um **theme switcher** centralizado na tela, ou seja, um bo
 
 ### Demonstração
 <div align="center">
-    <img width="750" alt="GIF demontrando o Rocketblog" src=".github/theme-switcher.gif" />
+    <img width="750" alt="GIF demontrando o theme-switcher" src=".github/theme-switcher.gif" />
 </div>
 
 ---
