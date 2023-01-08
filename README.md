@@ -26,7 +26,7 @@ Página estática com um **theme switcher** centralizado na tela, ou seja, um bo
 
 ### Demonstração
 <div align="center">
-    <img width="750" alt="GIF demontrando o theme-switcher" src=".github/theme-switcher.gif" />
+    <img width="750" alt="GIF demontrando o theme switcher" src=".github/theme-switcher.gif" />
 </div>
 
 ---
