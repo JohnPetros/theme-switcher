@@ -36,7 +36,7 @@ Página estática com um **theme switcher** centralizado na tela, ou seja, um bo
 
 - [x] Trocar de tema de cores tanto do texto quando do background da página ao clicar no switcher
 - [x] Ter uma transição entre um ícone de sol (representando o tema light) e um de lua (representando o tema dark) 
-- [x] Armazenar o tema atual no local storage de modo que as cores permaneçam na página mesmo se usuário regarregar a página
+- [x] Armazenar o tema atual no local storage, de modo que as cores permaneçam na página mesmo se usuário regarregar a página
 
 ---
 <br>
