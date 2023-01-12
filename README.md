@@ -52,7 +52,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ✔️ **[HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)**
 
-
 ---
 <br>
 
@@ -97,7 +96,7 @@ No link abaixo você encontra o layout do projeto feito pela equipe da Rocketsea
 ---
 <br>
 
-## :memo: Licença
+## 📝 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
