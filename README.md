@@ -30,7 +30,6 @@ Página estática com um **theme switcher** centralizado na tela, ou seja, um bo
 </div>
 
 ---
-<br>
 
 ## ✨ Funcionalidades
 
@@ -39,7 +38,6 @@ Página estática com um **theme switcher** centralizado na tela, ou seja, um bo
 - [x] Armazenar o tema atual no local storage, de modo que as cores permaneçam na página mesmo se usuário regarregar a página
 
 ---
-<br>
 
 
 ##  Tecnologias
@@ -53,7 +51,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ✔️ **[HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)**
 
 ---
-<br>
 
 ## 🚀 Como rodar este projeto
 
@@ -79,14 +76,12 @@ $ code .
 ```
 
 ---
-<br>
 
 ## ⚙️ Deploy
 
 O deploy desse projeto foi realizado através do **[Github Pages](https://www.infinityfree.net/)**. Isso implica que você pode acessar o projeto funcionando acessando esse **[link](https://johnpetros.github.io/super-trunfo-clash-royale/)**
 
 ---
-<br>
 
 ## 🎨 Layout:
 No link abaixo você encontra o layout do projeto feito pela equipe da Rocketseat. Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
@@ -94,7 +89,6 @@ No link abaixo você encontra o layout do projeto feito pela equipe da Rocketsea
 - [Layout](https://www.figma.com/file/faqMNLrCBeIWJt9tXrRUpX/DD-Theme-Switcher-Copy?fuid=1063607431262423232)
 
 ---
-<br>
 
 ## 📝 Licença
 
